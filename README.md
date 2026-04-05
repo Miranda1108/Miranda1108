@@ -68,6 +68,17 @@ Busco oportunidades remotas como **desarrollador junior** o **freelance**.
 
 ---
 
+### Certificaciones
+
+| Certificacion | Institucion |
+|--------------|-------------|
+| **JavaScript** | Santander / Becas Santander |
+| **Data Analyst Essentials** | Cisco Networking Academy |
+| **Inteligencia Artificial** | Tecnologico de Monterrey (TECM) |
+| **Exploring SAP Analytics Cloud** | SAP |
+
+---
+
 ### GitHub Stats
 
 <p align="center">
